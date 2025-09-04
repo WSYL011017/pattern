@@ -1,0 +1,11 @@
+package Structural.Bridge;
+
+/**
+ * 具体实现A - 红色圆
+ */
+public class RedCircle implements DrawAPI {
+    @Override
+    public void drawCircle(int radius, int x, int y) {
+        System.out.println("Drawing Circle[ color: red, radius: " + radius + ", x: " + x + ", " + y + "]");
+    }
+}
