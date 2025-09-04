@@ -2,6 +2,8 @@
 
 This project demonstrates implementations of various design patterns in Java. Each pattern is implemented in its own package with clear examples and test cases.
 
+[:cn: 中文版本](README_CN.md)
+
 ## Table of Contents
 
 - [Design Patterns Implementation](#design-patterns-implementation)
